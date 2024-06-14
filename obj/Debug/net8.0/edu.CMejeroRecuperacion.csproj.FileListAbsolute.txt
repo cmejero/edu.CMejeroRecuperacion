@@ -1,0 +1,14 @@
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\bin\Debug\net8.0\edu.CMejeroRecuperacion.exe
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\bin\Debug\net8.0\edu.CMejeroRecuperacion.deps.json
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\bin\Debug\net8.0\edu.CMejeroRecuperacion.runtimeconfig.json
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\bin\Debug\net8.0\edu.CMejeroRecuperacion.dll
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\bin\Debug\net8.0\edu.CMejeroRecuperacion.pdb
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.dll
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\refint\edu.CMejeroRecuperacion.dll
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.pdb
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\edu.CMejeroRecuperacion.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\edu.CMejeroRecuperacion\obj\Debug\net8.0\ref\edu.CMejeroRecuperacion.dll

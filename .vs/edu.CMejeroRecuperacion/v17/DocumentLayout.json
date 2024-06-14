@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\ficherointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\ficherointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\ficheroimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\ficheroimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\utiles\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:utiles\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\dtos\\propietariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:dtos\\propietariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|c:\\users\\carlos\\source\\repos\\edu.cmejerorecuperacion\\servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7EF252-5707-47A3-B9B4-78683B5BD032}|edu.CMejeroRecuperacion.csproj|solutionrelative:servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Controladores\\Program.cs",
+              "RelativeDocumentMoniker": "Controladores\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Controladores\\Program.cs",
+              "RelativeToolTip": "Controladores\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:41:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperativaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\OperativaImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaImplementacion.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\OperativaImplementacion.cs",
+              "RelativeToolTip": "Servicios\\OperativaImplementacion.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowHQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:23:01.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiculoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Dtos\\VehiculoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\VehiculoDto.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Dtos\\VehiculoDto.cs",
+              "RelativeToolTip": "Dtos\\VehiculoDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:24:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FicheroImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\FicheroImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\FicheroImplementacion.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\FicheroImplementacion.cs",
+              "RelativeToolTip": "Servicios\\FicheroImplementacion.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:23:29.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropietarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Dtos\\PropietarioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PropietarioDto.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Dtos\\PropietarioDto.cs",
+              "RelativeToolTip": "Dtos\\PropietarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:24:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Utiles\\Util.cs",
+              "RelativeDocumentMoniker": "Utiles\\Util.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Utiles\\Util.cs",
+              "RelativeToolTip": "Utiles\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:25:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\MenuImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuImplementacion.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\MenuImplementacion.cs",
+              "RelativeToolTip": "Servicios\\MenuImplementacion.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:22:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FicheroInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\FicheroInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\FicheroInterfaz.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\FicheroInterfaz.cs",
+              "RelativeToolTip": "Servicios\\FicheroInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:23:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperativaInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\OperativaInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaInterfaz.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\OperativaInterfaz.cs",
+              "RelativeToolTip": "Servicios\\OperativaInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:23:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\MenuInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuInterfaz.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\edu.CMejeroRecuperacion\\Servicios\\MenuInterfaz.cs",
+              "RelativeToolTip": "Servicios\\MenuInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:22:46.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
